@@ -6,7 +6,7 @@
 
 ##### I am learning web development with a focus on Front-end and practicing these studies with the learning of JavaScript, HTML5, CSS and UX / UI. I am starting an increment of my studies with the ReactJS and React Native frameworks. 
 
-
+#### :heart: Welcome to my repository! :heart: 
 
 
 
