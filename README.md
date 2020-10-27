@@ -2,7 +2,7 @@
 ### I'm Izabella Ribeiro, university student of the Computer Science course at UFCG. <img src="https://i.giphy.com/media/VzlP2ZDcyA9OBjg9SP/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/VzlP2ZDcyA9OBjg9SP.gif';" alt="" width = "45" height = "45">
 
 - I love the panda animal :heart:
-- I love to sing :microphone: :purple_heart:
+- I love to sing :microphone: :heart:
 - I love web development :heart:
 - I love Designer/UX/UI :heart:
 - Currently, I have dedicated my studies to the following technologies:      
